@@ -11,7 +11,7 @@ Requirements:
 * Python 3, PostgreSQL, psycopg2
 
 Steps to launch the analysis:
-* Download and unzip [newsdta.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip), this file contains the database of the fictional news website
+* Download and unzip [newsdata.zip](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip), this file contains the database of the fictional news website
 * Import the schema and data from the database in your PostgreSQL environment
 * Run **logs_analysis.py** to launch the analysis(eg. `python logs_analysis.py`)
 
